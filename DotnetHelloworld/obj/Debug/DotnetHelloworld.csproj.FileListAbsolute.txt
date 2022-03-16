@@ -1,0 +1,7 @@
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\bin\Debug\DotnetHelloworld.exe.config
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\bin\Debug\DotnetHelloworld.exe
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\bin\Debug\DotnetHelloworld.pdb
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\obj\Debug\DotnetHelloworld.csprojAssemblyReference.cache
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\obj\Debug\DotnetHelloworld.csproj.CoreCompileInputs.cache
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\obj\Debug\DotnetHelloworld.exe
+C:\Users\prachisharma01\Desktop\DotnetHelloworld\obj\Debug\DotnetHelloworld.pdb
